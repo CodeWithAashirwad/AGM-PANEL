@@ -1,0 +1,22 @@
+{
+  "alg": "ed25519",
+  "envelope": {
+    "data": {
+      "status": "active",
+      "license_key": "HVM-IWS2-VTKP-7RV4-2026",
+      "machine_id": null,
+      "owner": "Amin",
+      "email": "admin@gmail.com",
+      "usage_type": "single",
+      "max_activations": 1,
+      "expires_at": "2027-09-08",
+      "expires_ts": 1820447999,
+      "issued_at": "2026-09-08",
+      "notes": "",
+      "ts": 1788832613,
+      "message": "License is active"
+    },
+    "ts": 1788832613
+  },
+  "signature": "FVB0cO58p/iXcODQExrNLkxfERjHw0VM8rsLngq8F//n7iIW7Sv501cGHJPwrx+ozyAGIlEhr/G8dg7Fqou0Ag=="
+}
