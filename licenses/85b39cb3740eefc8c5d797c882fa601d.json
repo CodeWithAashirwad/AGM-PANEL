@@ -1,0 +1,22 @@
+{
+  "alg": "ed25519",
+  "envelope": {
+    "data": {
+      "status": "active",
+      "license_key": "HVM-RLUM-UNSH-4MBX-2026",
+      "machine_id": null,
+      "owner": "Admin",
+      "email": "admin@gmsil.com",
+      "usage_type": "single",
+      "max_activations": 1,
+      "expires_at": "2027-10-06",
+      "expires_ts": 1822867199,
+      "issued_at": "2026-10-06",
+      "notes": "",
+      "ts": 1791249161,
+      "message": "License is active"
+    },
+    "ts": 1791249161
+  },
+  "signature": "hAcoAur7tKQrqlx44C4TA4DazC58aa+uYbo/gYNRX3aqiv5XsTBHGaGNjpL+Z7eZ5JViQT6D6w/GeeoXrgRMBA=="
+}
